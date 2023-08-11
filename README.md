@@ -1,7 +1,5 @@
 # Netflix-Movie-Recommenders
 
-#### Update 08/10: added EDA, clarified test-user used to test prediction is not in training set, added final thoughts 
-
 recommender system using TensorFlow Recommenders (TFRS)
 
 The primary goal of a recommender system is to to anticipate the behavioral tendencies, likes, or dislikes of users and offer individualized suggestions for items they are most likely to engage with.
