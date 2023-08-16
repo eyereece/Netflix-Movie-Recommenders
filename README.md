@@ -1,4 +1,4 @@
-# Netflix-Movie-Recommenders
+# Movie recommenders with TensorFlow Recommenders using Netflix Dataset
 
 recommender system using TensorFlow Recommenders (TFRS)
 
